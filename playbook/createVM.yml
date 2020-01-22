@@ -12,7 +12,7 @@
         datacenter: 'DatacenterParis'
         folder: /PROD/
         guest_id: debian6_64Guest
-        name: test_vm_ansible_5
+        name: test_vm_ansible_GIT
         state: present
         disk:
         - size_gb: 1
